@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "984715679855",
+    "firebase_url": "https://pushnotifications-b5380.firebaseio.com",
+    "project_id": "pushnotifications-b5380",
+    "storage_bucket": "pushnotifications-b5380.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984715679855:android:38e7d394183dbcb2",
+        "android_client_info": {
+          "package_name": "nl.hs_hague.pushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984715679855-tuqbmnjva1b81cqsl6f101acg4307l5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoIxQseBtQxh5-sA3hIqrnhNPJz3Y_2-k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
